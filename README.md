@@ -1,3 +1,6 @@
+這組 skills 本身是 model-agnostic 的 workflow instructions，可在 Codex 或 Claude 類型的 skill 系統中使用。前提是執行環境支援 SKILL.md-based skills，並且有相容的 Figma MCP tools。
+These skills are model-agnostic workflow instructions. They can be used in Codex or Claude-style skill systems as long as the host supports SKILL.md-based skills and exposes compatible Figma MCP tools.
+
 # ds-extract-skills
 
 Figma design-system extraction workflow skills for Codex.
